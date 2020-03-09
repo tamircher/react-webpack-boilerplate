@@ -25,7 +25,7 @@
 ### Project structure
 
 ````
-build/
+public/
 src/
 |- index.jsx _______________________________ # Application entry 
 |- App.jsx _________________________________ # Application init
